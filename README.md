@@ -125,4 +125,4 @@ Requisitos:
 
 **Hamze Jihad Abd El Baky**  
 Senior Flutter Engineer | Clean Architecture | Modular | Firebase | Flutter Web | GetIt  
-[LinkedIn](https://www.linkedin.com/in/hamze-jihad/)
+[LinkedIn](https://www.linkedin.com/in/hamzejihad/)
